@@ -1,10 +1,23 @@
-<template name="vehicules">
-    <p>dfgdfg</p>
+<template name="marque">
 
 
     <select id="marque">
+        <option disabled="disabled" selected="selected">Marques</option>
         {{#each  vehicules}}
-        <option value="{{vehicules}}">{{vehicules}}</option>
+        <option value="{{this}}" name="marque" class="marque">{{this}}</option>
+        {{/each}}
+
+    </select>
+    {{> modèle}}
+
+
+</template>
+<template name="modèle">
+
+    <select id="modèle">
+        <option disabled="disabled" selected="selected">Modèles</option>
+        {{#each  model}}
+        <option value="{{this}}">{{this}}</option>
         {{/each}}
     </select>
 
