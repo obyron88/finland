@@ -1,0 +1,344 @@
+  [
+ {
+  "Vehicle_Make":  "Audi",
+  "Vehicle_Model": "Q073001B4A8DU7E",
+  "Vehicle_Description": "AUDI Q7 Busin 3,0 V6TDI 200kW quattro tiptronic",
+  "Vehicle_Price_including_VAT": 754500000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 149,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 2765
+ },
+ {
+  "Vehicle_Make":  "Ford",
+  "Vehicle_Model": "FIE15TI15M6DH7F",
+  "Vehicle_Description": "FORD FIESTA  1,5 TDCi 85hv M6 Titanium 5ov",
+  "Vehicle_Price_including_VAT": 180900000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 89,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 1680
+ },
+ {
+  "Vehicle_Make":  "Mercedes-Benz",
+  "Vehicle_Model": "SPR300804M6DV7F",
+  "Vehicle_Description": "MERCEDES-BENZ SPRINT319CDI 4x4-3,55/43K pitk� A3",
+  "Vehicle_Price_including_VAT": 666000000000,
+  "Vehicle_Kind": "U",
+  "Vehicle_CO2": 0,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 3550
+ },
+ {
+  "Vehicle_Make":  "Land Rover",
+  "Vehicle_Model": "DSP200005A9DU7G",
+  "Vehicle_Description": "LAND ROVER DISCOVERY2,0 TD4 150 HSE Luxury Aut",
+  "Vehicle_Price_including_VAT": 563500000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 139,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 2505
+ },
+ {
+  "Vehicle_Make":  "Land Rover",
+  "Vehicle_Model": "DSP200005M6DU7G",
+  "Vehicle_Description": "LAND ROVER DISCOVERY2,0 TD4 150 HSE Luxury 5+2",
+  "Vehicle_Price_including_VAT": 553100000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 139,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 2660
+ },
+ {
+  "Vehicle_Make":  "BMW",
+  "Vehicle_Model": "F22200002A0DE7G",
+  "Vehicle_Description": "BMW 2-SARJA  F23 Cabriolet 220d A",
+  "Vehicle_Price_including_VAT": 408400000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 108,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 2025
+ },
+ {
+  "Vehicle_Make":  "Volkswagen",
+  "Vehicle_Model": "AMA30HIE4A0DP7F",
+  "Vehicle_Description": "VOLKSWAGEN AMAROK   DC High 3,0TDI 150kWAut 4MOT 2920kg",
+  "Vehicle_Price_including_VAT": 408700000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 211,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 2920
+ },
+ {
+  "Vehicle_Make":  "Volkswagen",
+  "Vehicle_Model": "GOF20COE4M6DH7F",
+  "Vehicle_Description": "VOLKSWAGEN GOLF Comf 2,0TDI 110 kW",
+  "Vehicle_Price_including_VAT": 247700000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 109,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 1890
+ },
+ {
+  "Vehicle_Make":  "Volkswagen",
+  "Vehicle_Model": "GOF2001C4M6DH7F",
+  "Vehicle_Description": "VOLKSWAGEN GOLF Comf 2,0TDI 110 kW 4MOT",
+  "Vehicle_Price_including_VAT": 261900000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 127,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 1970
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "COU200305A0BU7G",
+  "Vehicle_Description": "MINI COUNTRYMAN Cooper S ALL4 A Business",
+  "Vehicle_Price_including_VAT": 337100000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 146,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 0
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "CAB150002M6BE7G",
+  "Vehicle_Description": "MINI CABRIO  Cooper",
+  "Vehicle_Price_including_VAT": 255700000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 114,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 1670
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "CAB150002A6BE7G",
+  "Vehicle_Description": "MINI CABRIO  Cooper A",
+  "Vehicle_Price_including_VAT": 273500000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 119,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 1695
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "CLU200606A8DW7G",
+  "Vehicle_Description": "MINI CLUBMAN Cooper SD ALL4 A",
+  "Vehicle_Price_including_VAT": 324000000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 126,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 2055
+ },
+ {
+  "Vehicle_Make":  "Ford",
+  "Vehicle_Model": "MOD200004P0BZ7A",
+  "Vehicle_Description": "FORD MONDEO  2,0 187hv eCVT Titanium Business HEV 4D",
+  "Vehicle_Price_including_VAT": 341000000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 99,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 0
+ },
+ {
+  "Vehicle_Make":  "Ford",
+  "Vehicle_Model": "MOD200104P0BZ7A",
+  "Vehicle_Description": "FORD MONDEO  2,0 187hv eCVT Titanium HEV 4D",
+  "Vehicle_Price_including_VAT": 333600000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 99,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 0
+ },
+ {
+  "Vehicle_Make":  "Toyota",
+  "Vehicle_Model": "HIL240004M6DP7F",
+  "Vehicle_Description": "TOYOTA HILUX DoCab 2,4 D-4D 150 4WD Workhorse",
+  "Vehicle_Price_including_VAT": 322000000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 185,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 3210
+ },
+ {
+  "Vehicle_Make":  "Toyota",
+  "Vehicle_Model": "HIL24ACE2M6DP7F",
+  "Vehicle_Description": "TOYOTA HILUX Extra Cab 2,4 D-4D 150 4WD Active",
+  "Vehicle_Price_including_VAT": 345100000000,
+  "Vehicle_Kind": "U",
+  "Vehicle_CO2": 185,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 3150
+ },
+ {
+  "Vehicle_Make":  "Toyota",
+  "Vehicle_Model": "HIL24LIE2M6DP7F",
+  "Vehicle_Description": "TOYOTA HILUX Extra Cab 2,4 D-4D 150 4WD Life",
+  "Vehicle_Price_including_VAT": 311000000000,
+  "Vehicle_Kind": "U",
+  "Vehicle_CO2": 185,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 3150
+ },
+ {
+  "Vehicle_Make":  "Toyota",
+  "Vehicle_Model": "PRP18ACE5P0BM7F",
+  "Vehicle_Description": "TOYOTA PRIUS+ Active",
+  "Vehicle_Price_including_VAT": 368300000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 95,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 2115
+ },
+ {
+  "Vehicle_Make":  "Toyota",
+  "Vehicle_Model": "PRP18LIE5P0BM7F",
+  "Vehicle_Description": "TOYOTA PRIUS+ Life",
+  "Vehicle_Price_including_VAT": 352100000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 95,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 2115
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "COU200205M0BU7G",
+  "Vehicle_Description": "MINI COUNTRYMAN Cooper S ALL4 Business",
+  "Vehicle_Price_including_VAT": 316200000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 159,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 0
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "COU200305M0BU7G",
+  "Vehicle_Description": "MINI COUNTRYMAN Cooper S Business",
+  "Vehicle_Price_including_VAT": 296600000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 141,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 0
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "CAB150102A6BE7G",
+  "Vehicle_Description": "MINI CABRIO  Cooper A Business",
+  "Vehicle_Price_including_VAT": 277500000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 119,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 1695
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "CAB150102M6BE7G",
+  "Vehicle_Description": "MINI CABRIO  Cooper Business",
+  "Vehicle_Price_including_VAT": 259800000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 114,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 1670
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "CAB150002M6DE7G",
+  "Vehicle_Description": "MINI CABRIO  Cooper D",
+  "Vehicle_Price_including_VAT": 269000000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 100,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 1710
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "CLU200706A8DW7G",
+  "Vehicle_Description": "MINI CLUBMAN Cooper SD ALL4 A Business",
+  "Vehicle_Price_including_VAT": 332000000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 126,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 2055
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "CLU200806A8DW7G",
+  "Vehicle_Description": "MINI CLUBMAN Cooper SD ALL4 A Business Plus",
+  "Vehicle_Price_including_VAT": 333600000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 126,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 2055
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "CLU200406M6DW7G",
+  "Vehicle_Description": "MINI CLUBMAN Cooper SD Business",
+  "Vehicle_Price_including_VAT": 291800000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 119,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 1960
+ },
+ {
+  "Vehicle_Make":  "Toyota",
+  "Vehicle_Model": "PRP18PRM5P0BM7F",
+  "Vehicle_Description": "TOYOTA PRIUS+ Premium",
+  "Vehicle_Price_including_VAT": 413300000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 101,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 2115
+ },
+ {
+  "Vehicle_Make":  "Toyota",
+  "Vehicle_Model": "RAV20ACE5M6DU7F",
+  "Vehicle_Description": "TOYOTA RAV4  2,0 D-4D FWD Active",
+  "Vehicle_Price_including_VAT": 294600000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 123,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 2135
+ },
+ {
+  "Vehicle_Make":  "Toyota",
+  "Vehicle_Model": "RAV20LIE5M6DU7F",
+  "Vehicle_Description": "TOYOTA RAV4  2,0 D-4D FWD Life",
+  "Vehicle_Price_including_VAT": 264200000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 123,
+  "Fuel_Type": "D",
+  "Maximum_Weight": 2135
+ },
+ {
+  "Vehicle_Make":  "Toyota",
+  "Vehicle_Model": "RAV20ACE5M6BU7F",
+  "Vehicle_Description": "TOYOTA RAV4  2,0 Valvematic AWD Active",
+  "Vehicle_Price_including_VAT": 291000000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 155,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 2100
+ },
+ {
+  "Vehicle_Make":  "Toyota",
+  "Vehicle_Model": "RAV20ACE5P0BU7F",
+  "Vehicle_Description": "TOYOTA RAV4  2,0 Valvematic AWD Active Multidrive S",
+  "Vehicle_Price_including_VAT": 306400000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 149,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 2110
+ },
+ {
+  "Vehicle_Make":  "Mini",
+  "Vehicle_Model": "COU150405A0BU7G",
+  "Vehicle_Description": "MINI COUNTRYMAN Cooper S E ALL4 Business",
+  "Vehicle_Price_including_VAT": 382000000000,
+  "Vehicle_Kind": "V",
+  "Vehicle_CO2": 49,
+  "Fuel_Type": "B",
+  "Maximum_Weight": 0
+ }
+
+  ]
+
